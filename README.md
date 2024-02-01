@@ -1,12 +1,27 @@
-# CS111_FinalProject
-Final Project files for CS 111
+# CS111 Final Project
 
-This repository is where all files related to the CS 111 final will go.
+This is where all of the files for the CS111 Final Project will go
 
-Compilation - Adam and Avril
+# Goal
 
-Parser - Adam
-Map - Tim, Adam, Avril
-Graphics - Matthew and Fermin
-Enemies - Avril
-Combat - Avril, Adam
+The goal of this project is to create a Text-Based Adventure game with player interaction, combat mechanics, movement around a map in some capacity, and basic graphics (More than just ASCII art, pop images up)
+
+## Teams
+
+### Compiling the pieces
+    Adam and Avril
+
+### Parser
+    Adam
+
+### Map
+    Tim, Adam, Avril
+
+### Graphics
+    Matthew and Fermin
+
+### Enemies
+    Avril and Sydney
+
+### Combat:
+    Avril and Adam
